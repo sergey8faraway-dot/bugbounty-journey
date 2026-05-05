@@ -10,4 +10,4 @@
 - Notes
 
 ## Entries
-- 2026-05-05 | PortSwigger | TBD | IDOR | Apprentice | Planned | Start of roadmap
+- 2026-05-05 | PortSwigger | Insecure direct object references | IDOR | Apprentice | Solved | Changed transcript filename and accessed another user's log containing credentials.

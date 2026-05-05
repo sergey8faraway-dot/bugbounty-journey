@@ -3,7 +3,7 @@
 ## Labs Target (20 total)
 
 ### IDOR (12)
-- [ ] IDOR lab 1
+- [x] IDOR lab 1
 - [ ] IDOR lab 2
 - [ ] IDOR lab 3
 - [ ] IDOR lab 4
