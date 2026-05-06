@@ -6,10 +6,16 @@
 - `report_01_idor.md`
 - `report_02_xss.md`
 
-Минимальная структура репорта:
+Минимальная структура репорта (по блокам):
+
+1) Overview
 - Title
 - Summary
+
+2) Reproduction
 - Steps to Reproduce
-- Impact
 - Evidence
+
+3) Risk & Fix
+- Impact
 - Recommendation

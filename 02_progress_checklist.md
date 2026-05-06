@@ -27,7 +27,7 @@
 - [ ] XSS lab 8
 
 ## Reporting Target
-- [ ] Report draft #1
+- [x] Report draft #1
 - [ ] Report draft #2
 - [ ] Report draft #3
 - [ ] Report draft #4
